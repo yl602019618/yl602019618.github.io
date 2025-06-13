@@ -7,7 +7,7 @@ description: Two roads diverged in woods, I took the one less traveled by.  # St
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
-url: https://caihanlin.com
+url: https://yl602019618.github.io
 
 # --------------------------------------------------
 #  AUTHOR / PROFILE DATA
@@ -16,9 +16,7 @@ owner:
   name: Zhijun Zeng
   avatar: zhijun.jpg
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
-  email: hc663@cam.ac.uk
-  cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
-
+  email: zengzj22@mails.tsinghua.edu.cn
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   github: yl602019618
