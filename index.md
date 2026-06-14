@@ -15,9 +15,10 @@ Hello, I’m Zhijun Zeng (Bob). I am currently pursuing my PhD at the Yau Mathem
 
 ## Research Interests
 
-- Inverse Problems
-- Machine Learning4Computational Imaging(Ultrasound CT, Optical Diffraction Tomography)
-- Optimal Transport
-- Filtering Method
-
+- Computational inverse problems
+- Ultrasound imaging
+- Nonlinear filtering
+- Knowledge discovery and system identification
+- Diffusion language models
+- Science agents
 
