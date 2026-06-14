@@ -5,59 +5,71 @@ title: Publications
 ---
 > (†: equal contribution, ~: corresponding author)
 
-## Inverse Problem
+## Computational Imaging
 
-- [Weak collocation regression method: Fast reveal hidden stochastic dynamics from high-dimensional aggregate data](https://www.sciencedirect.com/science/article/abs/pii/S0021999124000482)<br>
-  Liwei Lu, Zhijun Zeng, Yan Jiang, Yi Zhu, Pipi Hu<br>
-  Journal of Computational Physics, 2024, 502: 112799.
+- [In vivo 3D ultrasound computed tomography of musculoskeletal tissues with generative neural physics](https://arxiv.org/abs/2508.12226)<br>
+  Zeng Z., Zheng Y., Su C., et al.<br>
+  *arXiv* preprint arXiv:2508.12226, 2025. Accepted by *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2026.
 
-- [Weak Collocation Regression for Inferring Stochastic Dynamics with Lévy Noise](https://arxiv.org/abs/2403.08292)<br>
-  Liya Goo, Liwei Lu, Zhijun Zeng, Pipi Hu, Yi Zhu<br>
-  Accepted at *Communications in Computational Physics*.
-
-- [Reconstruction of dynamical systems without timelabel](https://arxiv.org/abs/2312.04038)<br>
-  Zhijun Zeng, Chenglong Bao, Pipi Hu, Yi Zhu, Zuoqiang Shi<br>
-  Accepted at *Communications in Computational Physics*.
-
-- Weak Collocation Networks: a deep learning approach to reconstruct stochastic dynamics from aggregate data<br>
-  Zhitong Chen†, Zhijun Zeng†, Yi Zhu<br>
-  Submitted to *Communications in Nonlinear Science and Numerical Simulation*.
-
-- STWCR: Weak Collocation Regression for Revealing Hidden Stochastic Dynamics from Single Trajectory Data<br>
-  Yan Jiang†, Zhijun Zeng†, Wuyue Yang, Liu Hong, Pipi Hu, Yi Zhu<br>
-  Submitted to *Applied Mathematics and Computation*.
-
-- BlinDNO: A Distributional Neural Operator for Time-Label-Free Dynamical System Reconstruction<br>
-  Zhijun Zeng, Zuoqiang Shi<br>
-  Ongoing.
-
-## Machine Learning4Computational Imaging
-
-- In vivo 3D ultrasound computed tomography of musculoskeletal tissues with generative neural PDE solvers<br>
-  Zhijun Zeng, Youjia Zheng, Chang Su, et al.<br>
-  Submitted to *Nature Computational Sciences*.
-
-- OpenBreastUS: Benchmarking Neural Operators for Wave Imaging Using Breast Ultrasound Computed Tomography<br>
-  Zhijun Zeng, Youjia Zheng, Hao Hu, et al.<br>
-  Submitted to *IEEE Journal of Selected Topics in Signal Processing*.
-
-- [Neural Born series operator for biomedical ultrasound computed Tomography](https://arxiv.org/abs/2312.15575)<br>
-  Zhijun Zeng, Youjia Zheng, Yihang Zheng, et al.<br>
-  *arXiv* preprint arXiv:2312.15575, 2023.
-
-## Optimal Transport
+- [OpenBreastUS: Benchmarking Neural Operators for Wave Imaging Using Breast Ultrasound Computed Tomography](https://arxiv.org/abs/2507.15035)<br>
+  Zeng Z., Zheng Y., Hu H., et al.<br>
+  *arXiv* preprint arXiv:2507.15035, 2025. Submitted to *IEEE Transactions on Computational Imaging*.
 
 - [Robust Frequency Domain Full-Waveform Inversion via HV-Geometry](https://arxiv.org/abs/2505.01817)<br>
-  Zhijun Zeng, Matej Neumann, Yunan Yang<br>
-  *arXiv* preprint arXiv:2505.01817, 2025. Submitted to *IEEE Transactions on Computational Imaging*.
+  Zeng Z., Neumann M., Yang Y.<br>
+  *IEEE Transactions on Computational Imaging*, 2025, 11: 1271-1282.
 
-## Filtering Method
+## Physical Knowledge Discovery
 
-- Kernelized variational inference flow for high dimensional nonlinear filtering problem<br>
-  (Ongoing)
+- Reconstruction of Dynamical Systems Without Time Label<br>
+  Zeng Z., Bao C., Hu P., et al.<br>
+  *Communications in Computational Physics*, 2026, 39(3): 941-968.
 
-- Conditional score-based filter for high dimensional nonlinear filtering problem<br>
-  (Ongoing)
+- Weak Collocation Networks: A deep learning approach to reconstruct stochastic dynamics from aggregate data<br>
+  Chen Z.†, Zeng Z.†, Hu P., et al.<br>
+  *Communications in Nonlinear Science and Numerical Simulation*, 2025: 109360.
 
+- STWCR: Weak Collocation Regression for Revealing Hidden Stochastic Dynamics from Single Trajectory Data<br>
+  Jiang Y.†, Zeng Z.†, Yang W., et al.<br>
+  Accepted by *Applied Mathematics and Computation*, 2026.
 
+- [BlinDNO: A Distributional Neural Operator for Dynamical System Reconstruction from Time-Label-Free Data](https://arxiv.org/abs/2511.12316)<br>
+  Zeng Z., Chen J., Shi Z.<br>
+  *arXiv* preprint arXiv:2511.12316, 2025. Submitted to *SIAM Journal on Scientific Computing*.
+
+- [Weak collocation regression method: Fast reveal hidden stochastic dynamics from high-dimensional aggregate data](https://www.sciencedirect.com/science/article/abs/pii/S0021999124000482)<br>
+  Lu L., Zeng Z., Jiang Y., et al.<br>
+  *Journal of Computational Physics*, 2024, 502: 112799.
+
+- [Weak Collocation Regression for Inferring Stochastic Dynamics with Levy Noise](https://arxiv.org/abs/2403.08292)<br>
+  Guo L., Lu L., Zeng Z., et al.<br>
+  *Communications in Computational Physics*, 2025, 37(5): 1277-1304.
+
+## Generative Models
+
+- [An Efficient Conditional Score-based Filter for High Dimensional Nonlinear Filtering Problems](https://arxiv.org/abs/2509.19816)<br>
+  Zeng Z., Gan W., Chen J., et al.<br>
+  *arXiv* preprint arXiv:2509.19816, 2025. Submitted to *Automatica*.
+
+- [Flow Matching Transport for Quasi-Monte Carlo Integration](https://arxiv.org/abs/2601.01072)<br>
+  Zeng Z., Chen J.<br>
+  *arXiv* preprint arXiv:2601.01072, 2026. Submitted to *Mathematics and Computers in Simulation*.
+
+- [Kernel Variational Inference Flow for Nonlinear Filtering Problem](https://arxiv.org/abs/2509.18589)<br>
+  Gan W., Zeng Z., Chen J., et al.<br>
+  *arXiv* preprint arXiv:2509.18589, 2025. Submitted to *IEEE Transactions on Automatic Control*.
+
+- [UnigenX: Unified generation of sequence and structure with autoregressive diffusion](https://arxiv.org/abs/2503.06687)<br>
+  Zhang G., Li Y., Luo R., et al.<br>
+  *arXiv* preprint arXiv:2503.06687, 2025.
+
+## Language Models
+
+- [Constant-Target Energy Matching: A Unified Framework for Continuous and Discrete Density Estimation](https://arxiv.org/abs/2605.09085)<br>
+  Zeng Z., Jiang Y., Hu P., et al.<br>
+  *arXiv* preprint arXiv:2605.09085, 2026. Submitted to *NeurIPS*, 2026.
+
+- Imaging-101: Benchmarking LLM Agents for Computational Imaging<br>
+  Chen S., Ying J., et al.<br>
+  Accepted by *IEEE International Conference on Computational Photography*, 2026.
 
