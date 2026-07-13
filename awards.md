@@ -4,14 +4,11 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Update: June 2025
+> Updated: July 2026
 
-## Scholarships
-- 2021：**National Scholarship** 
-- 2020：**Shanghai Municipal Scholarship** 
+## Honors and Funding
 
-## Competitions
-
-- 2022：**National Second Prize in Contemporary Undergraduate Mathematical Contest in Modeling** <br>
-
-<br>
+- 2025--2026: **YMSC Full Fellowship for Ph.D. Students**, Tsinghua University
+- 2024--2025: **Tsinghua Ph.D. Short-term Visit Fund**, supporting my visit to Cornell University
+- 2021: **National Second Prize**, China Undergraduate Mathematical Contest in Modeling (CUMCM)
+- 2021: **National Scholarship**

@@ -7,19 +7,19 @@ title: Publications
 
 ## Computational Imaging
 
-- [In vivo 3D ultrasound computed tomography of musculoskeletal tissues with generative neural physics](https://arxiv.org/abs/2508.12226)<br>
+- [Ultrasound Tomography of Musculoskeletal Tissues with Generative Neural Physics](https://arxiv.org/abs/2508.12226)<br>
   Zeng Z., Zheng Y., Su C., et al.<br>
-  *arXiv* preprint arXiv:2508.12226, 2025. Accepted by *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2026.
+  *arXiv* preprint arXiv:2508.12226, 2025. Accepted by *ICCP 2026*; recommended for *IEEE Transactions on Pattern Analysis and Machine Intelligence*.
 
 - [OpenBreastUS: Benchmarking Neural Operators for Wave Imaging Using Breast Ultrasound Computed Tomography](https://arxiv.org/abs/2507.15035)<br>
   Zeng Z., Zheng Y., Hu H., et al.<br>
-  *arXiv* preprint arXiv:2507.15035, 2025. Submitted to *IEEE Transactions on Computational Imaging*.
+  *arXiv* preprint arXiv:2507.15035, 2025. Submitted to *Computer Methods and Programs in Biomedicine*.
 
 - [Robust Frequency Domain Full-Waveform Inversion via HV-Geometry](https://arxiv.org/abs/2505.01817)<br>
   Zeng Z., Neumann M., Yang Y.<br>
   *IEEE Transactions on Computational Imaging*, 2025, 11: 1271-1282.
 
-## Physical Knowledge Discovery
+## Physics-Informed Knowledge Discovery
 
 - Reconstruction of Dynamical Systems Without Time Label<br>
   Zeng Z., Bao C., Hu P., et al.<br>
@@ -31,7 +31,7 @@ title: Publications
 
 - STWCR: Weak Collocation Regression for Revealing Hidden Stochastic Dynamics from Single Trajectory Data<br>
   Jiang Y.†, Zeng Z.†, Yang W., et al.<br>
-  Accepted by *Applied Mathematics and Computation*, 2026.
+  *Applied Mathematics and Computation*, 2026, 521: 129958.
 
 - [BlinDNO: A Distributional Neural Operator for Dynamical System Reconstruction from Time-Label-Free Data](https://arxiv.org/abs/2511.12316)<br>
   Zeng Z., Chen J., Shi Z.<br>
@@ -67,9 +67,8 @@ title: Publications
 
 - [Constant-Target Energy Matching: A Unified Framework for Continuous and Discrete Density Estimation](https://arxiv.org/abs/2605.09085)<br>
   Zeng Z., Jiang Y., Hu P., et al.<br>
-  *arXiv* preprint arXiv:2605.09085, 2026. Submitted to *NeurIPS*, 2026.
+  *arXiv* preprint arXiv:2605.09085, 2026. Submitted to *NeurIPS 2026*.
 
 - Imaging-101: Benchmarking LLM Agents for Computational Imaging<br>
   Chen S., Ying J., et al.<br>
-  Accepted by *IEEE International Conference on Computational Photography*, 2026.
-
+  Accepted by *ICCP 2026*.
